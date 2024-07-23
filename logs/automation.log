@@ -1,0 +1,159 @@
+2024-07-23 13:18:00 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:18:00 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:18:01 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:18:01 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:18:01 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:18:02 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:18:53 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:18:53 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:18:54 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:18:54 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:18:54 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:18:54 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:20:13 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:20:14 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:20:18 INFO  TC001_AccountRegistrationTest:16 - ******Starting TC001_AccountRegistrationTest ********
+2024-07-23 13:20:19 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-23 13:20:19 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-07-23 13:20:20 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2024-07-23 13:20:20 INFO  TC001_AccountRegistrationTest:35 - Validating Expected Message...
+2024-07-23 13:20:21 INFO  TC001_AccountRegistrationTest:51 - ****End of TC001_AccountRegistrationTest ****** 
+2024-07-23 13:20:22 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:20:22 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:20:25 INFO  TC002_LoginTest:19 - **** Starting TC_002_LoginTest ****
+2024-07-23 13:20:25 INFO  TC002_LoginTest:25 - Clicked on MyAccount..
+2024-07-23 13:20:26 INFO  TC002_LoginTest:27 - Clicked on Login...
+2024-07-23 13:20:26 INFO  TC002_LoginTest:31 - Providing Login Details..
+2024-07-23 13:20:27 INFO  TC002_LoginTest:36 - Clicked on Login Button..
+2024-07-23 13:20:29 INFO  TC002_LoginTest:41 - Verifying the MyAccount Page..
+2024-07-23 13:20:29 INFO  TC002_LoginTest:48 - ********Finished TC002_LoginTest *******
+2024-07-23 13:20:29 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:20:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:20:34 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:20:34 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:20:35 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:20:35 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:20:35 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:20:36 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:20:37 INFO  TC003_LoginDDT:59 - ********Clicked on Logout *******
+2024-07-23 13:20:37 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:20:37 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:20:37 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:20:37 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:20:37 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:20:38 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:20:48 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:20:48 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:20:48 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:20:48 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:20:49 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:20:49 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:20:49 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:20:59 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:20:59 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:20:59 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:20:59 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:21:00 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:21:00 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:21:01 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:21:02 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:21:03 INFO  TC003_LoginDDT:59 - ********Clicked on Logout *******
+2024-07-23 13:21:03 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:35:07 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:35:07 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:35:10 INFO  TC001_AccountRegistrationTest:16 - ******Starting TC001_AccountRegistrationTest ********
+2024-07-23 13:35:11 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-23 13:35:11 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-07-23 13:35:11 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2024-07-23 13:35:12 INFO  TC001_AccountRegistrationTest:35 - Validating Expected Message...
+2024-07-23 13:35:12 INFO  TC001_AccountRegistrationTest:51 - ****End of TC001_AccountRegistrationTest ****** 
+2024-07-23 13:35:13 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:35:13 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:35:15 INFO  TC002_LoginTest:19 - **** Starting TC_002_LoginTest ****
+2024-07-23 13:35:15 INFO  TC002_LoginTest:25 - Clicked on MyAccount..
+2024-07-23 13:35:15 INFO  TC002_LoginTest:27 - Clicked on Login...
+2024-07-23 13:35:15 INFO  TC002_LoginTest:31 - Providing Login Details..
+2024-07-23 13:35:16 INFO  TC002_LoginTest:36 - Clicked on Login Button..
+2024-07-23 13:35:16 INFO  TC002_LoginTest:41 - Verifying the MyAccount Page..
+2024-07-23 13:35:16 INFO  TC002_LoginTest:48 - ********Finished TC002_LoginTest *******
+2024-07-23 13:35:17 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:35:17 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:35:20 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:35:20 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:35:20 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:35:20 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:35:20 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:35:21 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:35:21 INFO  TC003_LoginDDT:59 - ********Clicked on Logout *******
+2024-07-23 13:35:21 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:35:21 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:35:21 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:35:21 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:35:21 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:35:21 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:35:31 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:35:31 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:35:31 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:35:32 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:35:32 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:35:32 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:35:32 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:35:42 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:35:42 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:35:42 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:35:42 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:35:42 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:35:42 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:35:43 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:35:43 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:35:43 INFO  TC003_LoginDDT:59 - ********Clicked on Logout *******
+2024-07-23 13:35:43 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:39:19 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:39:19 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:39:23 INFO  TC001_AccountRegistrationTest:16 - ******Starting TC001_AccountRegistrationTest ********
+2024-07-23 13:39:23 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-07-23 13:39:24 INFO  TC001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-07-23 13:39:24 INFO  TC001_AccountRegistrationTest:26 - Providing Customer Details...
+2024-07-23 13:39:24 INFO  TC001_AccountRegistrationTest:35 - Validating Expected Message...
+2024-07-23 13:39:25 INFO  TC001_AccountRegistrationTest:51 - ****End of TC001_AccountRegistrationTest ****** 
+2024-07-23 13:39:25 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:39:25 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:39:27 INFO  TC002_LoginTest:19 - **** Starting TC_002_LoginTest ****
+2024-07-23 13:39:28 INFO  TC002_LoginTest:25 - Clicked on MyAccount..
+2024-07-23 13:39:28 INFO  TC002_LoginTest:27 - Clicked on Login...
+2024-07-23 13:39:28 INFO  TC002_LoginTest:31 - Providing Login Details..
+2024-07-23 13:39:29 INFO  TC002_LoginTest:36 - Clicked on Login Button..
+2024-07-23 13:39:29 INFO  TC002_LoginTest:41 - Verifying the MyAccount Page..
+2024-07-23 13:39:29 INFO  TC002_LoginTest:48 - ********Finished TC002_LoginTest *******
+2024-07-23 13:39:29 INFO  WebDriverManager:1220 - Using chromedriver 126.0.6478.182 (resolved driver for Chrome 126)
+2024-07-23 13:39:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\126.0.6478.182\chromedriver.exe
+2024-07-23 13:39:32 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:39:32 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:39:33 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:39:33 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:39:33 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:39:34 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:39:34 INFO  TC003_LoginDDT:59 - ********Clicked on Logout *******
+2024-07-23 13:39:34 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:39:34 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:39:34 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:39:34 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:39:34 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:39:34 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:39:45 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:39:45 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:39:45 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:39:45 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:39:45 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:39:45 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:39:45 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:39:55 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:39:55 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
+2024-07-23 13:39:55 INFO  TC003_LoginDDT:21 - **** Starting TC_003_LoginDDT ****
+2024-07-23 13:39:55 INFO  TC003_LoginDDT:27 - Clicked on MyAccount..
+2024-07-23 13:39:56 INFO  TC003_LoginDDT:29 - Clicked on Login...
+2024-07-23 13:39:56 INFO  TC003_LoginDDT:33 - Providing Login Details..
+2024-07-23 13:39:56 INFO  TC003_LoginDDT:38 - Clicked on Login Button..
+2024-07-23 13:39:56 INFO  TC003_LoginDDT:43 - Verifying the MyAccount Page..
+2024-07-23 13:39:57 INFO  TC003_LoginDDT:59 - ********Clicked on Logout *******
+2024-07-23 13:39:57 INFO  TC003_LoginDDT:84 - ********Finished TC003_LoginDDT *******
